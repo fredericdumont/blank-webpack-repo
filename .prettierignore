@@ -1,0 +1,6 @@
+# Ignore artifacts:
+# dependencies
+/node_modules
+
+# production
+/build
